@@ -6,5 +6,3 @@ hello wrold
 hello wrold master
 hello wrold hot-master
 hello wrold
-欢迎修改
-哈哈哈哈
